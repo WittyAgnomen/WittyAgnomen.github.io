@@ -25,9 +25,9 @@ author: phlow
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://WittyAgnomen.github.io
+url: 'https://WittyAgnomen.github.io'
 '
-baseurl: '/feeling-responsive'
+baseurl: '/rs'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
