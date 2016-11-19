@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/green.jpg
+  overlay_image: /assets/images/green1.jpg
   cta_label: ""
   cta_url: ""
   caption:
@@ -13,7 +13,7 @@ feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "CV"
     title: "Resume"
-    excerpt: "Ryan Skorupski"
+    excerpt: "Ryan Skorupski<br /><br /><br />"
     url: "/docs/Resume_RyanSkorupski.pdf"
     btn_label: "View"
   - image_path: /assets/images/mm-free-feature.png
@@ -25,7 +25,7 @@ feature_row:
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "Article"
     title: "Stanford Daily"
-    excerpt: "Low return on merged pool investment"
+    excerpt: "Low return on merged pool investment<br /><br /><br />"
     url: "http://www.stanforddaily.com/2012/10/04/low-return-on-merged-pool-investment/"
     btn_label: "View"
 github:

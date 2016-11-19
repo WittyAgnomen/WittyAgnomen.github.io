@@ -80,11 +80,11 @@ analytics:
 # Site Author
 author:
   name             : *name
-  avatar           : "/assets/images/Ryan1.jpg"
+  avatar           : "/assets/images/ryan.jpg"
   bio              : "A person."
   location         : "Seattle, WA"
   email            :
-  uri              : "https:/WittyAgnomen.github.io"
+  uri              : "WittyAgnomen.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
