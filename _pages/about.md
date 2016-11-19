@@ -12,11 +12,11 @@ layouts_gallery:
   - url: /assets/images/mm-layout-archive.png
     image_path: /assets/images/mm-layout-archive.png
     alt: "archive layout example"
-modified: 2016-11-03T11:55:22-04:00
+modified: 2016-11-19T11:55:22-04:00
 ---
 
 Under Construction :smile:.
 
 ---
 
-Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York.
+
