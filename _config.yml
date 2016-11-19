@@ -7,10 +7,10 @@ theme: minimal-mistakes-jekyll
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Witty AI"
+title                    : "Witty ML"
 title_separator          : "-"
 name                     : &name "Ryan Skorupski"
-description              : &description "A personal website."
+description              : &description "A Personal Website."
 url                      : https:/WittyAgnomen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #"/WittyAgnomen.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "mmistakes/minimal-mistakes"
