@@ -4,11 +4,9 @@ permalink: /
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/gis.jpg
-  cta_label: "<i class='fa fa-download'></i> Install Now"
-  cta_url: "/docs/quick-start-guide/"
   caption:
 excerpt: '<strong>Topics of Interest:</strong>  Machine Learning, AI, and Technology's role in Finance, Economics, and Business <br /> 
- 
+{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "CV"
