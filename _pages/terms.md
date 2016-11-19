@@ -3,7 +3,8 @@ permalink: /terms/
 title: "Terms and Privacy Policy"
 modified: 2016-11-03T11:57:46-04:00
 ---
-
+Under Construction
+<!--
 {% include toc %}
 
 ## Privacy Policy
@@ -55,3 +56,4 @@ What this means for you:
 * I respect and value my readers too much to write anything other than my own genuine and objective opinions and advice.
 
 Just like this website, my Disclosure Policy is a work in progress. As the revenue streams evolve, so will this page.
+-->

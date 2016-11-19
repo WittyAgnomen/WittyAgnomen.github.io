@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/green1.jpg
+  overlay_image: /assets/images/green.jpg
   cta_label: ""
   cta_url: ""
   caption:
