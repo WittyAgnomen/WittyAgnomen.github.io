@@ -7,7 +7,7 @@ header:
   cta_label: ""
   cta_url: ""
   caption:
-excerpt: 'Machine Learning, AI, and intersection of Technology with Finance, Economics, and Business.<br /> '
+excerpt: 'Machine Learning, AI, and the intersection of Technology with Finance, Economics, and Business.<br /> '
 
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png

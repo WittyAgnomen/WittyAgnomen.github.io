@@ -81,10 +81,10 @@ analytics:
 author:
   name             : *name
   avatar           : "/assets/images/ryan.jpg"
-  bio              : "A person."
+  bio              : "ML/AI Researcher"
   location         : "Seattle, WA"
   email            :
-  uri              : ""
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
@@ -99,7 +99,7 @@ author:
   linkedin         : "ryan-skorupski"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "http://stackoverflow.com/users/6674425/wittyagnomen"
   steam            :
   tumblr           :
   twitter          : *twitter
